@@ -3,6 +3,7 @@
 
 После тегов <body></body> вставить код
 
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/locale/ru.min.js"></script>
@@ -22,3 +23,4 @@
         $("#month").text(month_tom);
     }
 </script>
+ 
